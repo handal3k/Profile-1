@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "base_url": "https://handal3k.github.io/Profile-1/assets/jack-1888",
+  "avatar": {
+    "jack_dialogue": "avatar/jack-dialogue.png"
+  },
+  "banners": [
+    "banners/banner-01.webp",
+    "banners/banner-02.png",
+    "banners/banner-03.webp",
+    "banners/banner-04.png"
+  ],
+  "locations": {
+    "default": "locations/default-whitechapel.png",
+    "whitechapel_station": null,
+    "bucks_row": null,
+    "hanbury_street": null,
+    "dutfields_yard": null,
+    "mitre_square": null,
+    "goulston_street": null,
+    "millers_court": null
+  }
+}
