@@ -1,23 +1,23 @@
 {
-  "version": 1,
+  "version": 2,
   "base_url": "https://handal3k.github.io/Profile-1/assets/jack-1888",
   "avatar": {
-    "jack_dialogue": "avatar/jack-dialogue.png"
+    "jack_dialogue": "avatar/jack-dialogue.webp"
   },
   "banners": [
     "banners/banner-01.webp",
-    "banners/banner-02.png",
+    "banners/banner-02.webp",
     "banners/banner-03.webp",
-    "banners/banner-04.png"
+    "banners/banner-04.webp"
   ],
   "locations": {
-    "default": "locations/default-whitechapel.png",
-    "whitechapel_station": null,
-    "bucks_row": null,
-    "hanbury_street": null,
-    "dutfields_yard": null,
-    "mitre_square": null,
-    "goulston_street": null,
-    "millers_court": null
+    "default": "locations/default-whitechapel.webp",
+    "whitechapel_station": "locations/whitechapel-station.webp",
+    "bucks_row": "locations/bucks-row.webp",
+    "hanbury_street": "locations/hanbury-street.webp",
+    "dutfields_yard": "locations/dutfields-yard.webp",
+    "mitre_square": "locations/mitre-square.webp",
+    "goulston_street": "locations/goulston-street.webp",
+    "millers_court": "locations/millers-court.webp"
   }
 }
