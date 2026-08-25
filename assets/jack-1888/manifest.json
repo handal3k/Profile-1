@@ -1,6 +1,9 @@
 {
-  "version": 4,
+  "version": 5,
   "base_url": "https://handal3k.github.io/Profile-1/assets/jack-1888",
+  "opening": {
+    "cover": "opening/cover.webp"
+  },
   "avatar": {
     "jack_dialogue": "avatar/jack-dialogue.webp"
   },
