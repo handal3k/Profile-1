@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "base_url": "https://handal3k.github.io/Profile-1/assets/jack-1888",
   "avatar": {
     "jack_dialogue": "avatar/jack-dialogue.webp"
@@ -21,6 +21,6 @@
     "millers_court": "locations/millers-court.webp"
   },
   "runtime": {
-    "statusbar": "runtime/statusbar-v3.3.0.js"
+    "statusbar": "runtime/statusbar-v3.4.0.js"
   }
 }
